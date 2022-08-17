@@ -1,6 +1,6 @@
 # Practice Website
 
-This is my trial webiste just to clear few concepts of git and github. What else is better than learning via self-practice?
+This is my trial website just to clear few concepts of git and github. What better way than learning via self-practice?
 So far I have 're-learnt' 
 
 - HTML
